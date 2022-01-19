@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ahmad.video_list"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:7:5-76
+13-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:7:22-73
+14
+15    <application
+15-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:9:3-88:17
+16        android:allowBackup="true"
+16-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:10:9-35
+17        android:debuggable="true"
+18        android:icon="@drawable/image_1"
+18-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:11:9-41
+19        android:label="@string/app_name"
+19-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:12:9-41
+20        android:resizeableActivity="true"
+20-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:14:3-38
+21        android:testOnly="true"
+22        android:theme="@style/AppThemea" >
+22-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:13:9-41
+23        <activity android:name="com.ahmad.video_list.Splash" >
+23-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:15:9-22:20
+23-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:16:13-35
+24            <intent-filter>
+24-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:17:13-21:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:18:17-69
+25-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:18:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:20:17-77
+27-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:20:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.ahmad.video_list.List_pro" />
+30-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:26:4-27:31
+30-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:27:5-29
+31        <activity android:name="com.ahmad.video_list.Main1Activity" />
+31-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:30:4-31:36
+31-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:31:5-34
+32        <activity android:name="com.ahmad.video_list.Main2Activity" />
+32-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:34:4-35:36
+32-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:35:5-34
+33        <activity android:name="com.ahmad.video_list.Main3Activity" />
+33-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:39:4-40:36
+33-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:40:5-34
+34        <activity android:name="com.ahmad.video_list.Main4Activity" />
+34-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:44:4-45:36
+34-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:45:5-34
+35        <activity android:name="com.ahmad.video_list.Main5Activity" />
+35-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:49:4-50:36
+35-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:50:5-34
+36        <activity android:name="com.ahmad.video_list.Main6Activity" />
+36-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:53:4-54:36
+36-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:54:5-34
+37        <activity android:name="com.ahmad.video_list.Main7Activity" />
+37-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:58:4-59:36
+37-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:59:5-34
+38        <activity android:name="com.ahmad.video_list.Main8Activity" />
+38-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:63:4-64:36
+38-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:64:5-34
+39        <activity android:name="com.ahmad.video_list.Main9Activity" />
+39-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:67:4-68:36
+39-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:68:5-34
+40        <activity android:name="com.ahmad.video_list.Main10Activity" />
+40-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:71:4-72:37
+40-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:72:5-35
+41        <activity android:name="com.ahmad.video_list.Main11Activity" />
+41-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:75:4-76:37
+41-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:76:5-35
+42        <activity android:name="com.ahmad.video_list.Privacy_policy" />
+42-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:81:4-82:37
+42-->C:\Users\azmmah\Desktop\Video_10_android\app\src\main\AndroidManifest.xml:82:5-35
+43    </application>
+44
+45</manifest>

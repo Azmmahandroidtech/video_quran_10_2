@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_1.png.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable\\image_1.png"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\layout_privacy_policy.xml.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\layout\\privacy_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\layout_list_pro.xml.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\layout\\list_pro.xml"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_2.png.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable\\image_2.png"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\layout_resource_ahmah.xml.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\layout\\resource_ahmah.xml"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\font_lalezar_regular.ttf.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\font\\lalezar_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_3.jpg.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\drawable\\image_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\raw_algna.mp4.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\raw\\algna.mp4"
+    },
+    {
+        "merged": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\raw_jorgesys_soun.mp3.flat",
+        "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\raw\\jorgesys_soun.mp3"
+    }
+]

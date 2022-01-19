@@ -1,0 +1,97 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,56",
+                        "endColumns": "62,47",
+                        "endOffsets": "162,99"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "234,297",
+                        "endColumns": "62,47",
+                        "endOffsets": "292,340"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "11,9,4,7",
+                        "startColumns": "0,1,0,0",
+                        "startOffsets": "186,143,57,98",
+                        "endColumns": "40,41,38,41",
+                        "endOffsets": "226,183,95,139"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,100,145,188",
+                        "endColumns": "44,44,42,45",
+                        "endOffsets": "95,140,183,229"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\values\\ahmadth.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "134"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "499",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "578"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "204"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "345",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "494"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\build\\intermediates\\merged_res\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\azmmah\\Desktop\\Video_10_android\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "133"
+                    }
+                }
+            ]
+        }
+    ]
+}

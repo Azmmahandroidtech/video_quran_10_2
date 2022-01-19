@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ahmad.video_list"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/image_1"
+        android:label="@string/app_name"
+        android:resizeableActivity="true"
+        android:testOnly="true"
+        android:theme="@style/AppThemea" >
+        <activity android:name="com.ahmad.video_list.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.ahmad.video_list.List_pro" />
+        <activity android:name="com.ahmad.video_list.Main1Activity" />
+        <activity android:name="com.ahmad.video_list.Main2Activity" />
+        <activity android:name="com.ahmad.video_list.Main3Activity" />
+        <activity android:name="com.ahmad.video_list.Main4Activity" />
+        <activity android:name="com.ahmad.video_list.Main5Activity" />
+        <activity android:name="com.ahmad.video_list.Main6Activity" />
+        <activity android:name="com.ahmad.video_list.Main7Activity" />
+        <activity android:name="com.ahmad.video_list.Main8Activity" />
+        <activity android:name="com.ahmad.video_list.Main9Activity" />
+        <activity android:name="com.ahmad.video_list.Main10Activity" />
+        <activity android:name="com.ahmad.video_list.Main11Activity" />
+        <activity android:name="com.ahmad.video_list.Privacy_policy" />
+    </application>
+
+</manifest>
